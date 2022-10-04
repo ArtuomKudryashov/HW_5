@@ -48,6 +48,7 @@ print(trek.wheel)
 print(trek.model)
 print(trek.country())
 print(trek.prototуpe())
+print(trek.material)
 
 print("<<<<<<<<<<<<<<<<<<<<<<<RoadBike>>>>>>>>>>>>>>>>>>>>>>>")
 
